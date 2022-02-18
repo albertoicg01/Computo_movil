@@ -5,11 +5,11 @@
 
 # Lista de contenido
 
-###Lists
 
-####Unordered list (-)
 
-- Tareas: Hay subcarpetas dentro del directorio **/tareas** y conforme se avance en el curso, este directorio será actualizado.
+
+
+-  Tareas: Hay subcarpetas dentro del directorio **/tareas** y conforme se avance en el curso, este directorio será actualizado.
 
 
 ![](https://raw.githubusercontent.com/albertoicg01/Computo_movil/main/img/mobile.png)
