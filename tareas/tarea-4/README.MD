@@ -1,11 +1,19 @@
 # Tarea 4
 
-## Descripción
+## Autor
+<b>Alberto Israel Cruz Galván</b>
+
+## Fecha
+<b>01/04/2022</b>
+
+### Descripción
 
 Compartir/elaborar/actualizar mi CV, mi cuenta de Git Hub y mi cuenta de de Linkedin, con el objetivo de postular a una entrevista de trabajo.
 
-## Enlaces
-Pongo a su disposición los materiales solicitados. Quedo atento a cualquier comentario o retroalimentación.
+### Enlaces
+Pongo a su disposición los materiales solicitados. Quedo atento a cualquier comentario o retroalimentación. Muchas gracias.
+
+
 
 <div>
     <li>
